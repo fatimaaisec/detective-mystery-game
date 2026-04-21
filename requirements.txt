@@ -1,0 +1,9 @@
+# Detective Mystery Game Requirements
+# No external packages required - uses only Python standard library!
+# Python 3.6+
+
+# This project uses only built-in Python modules:
+# - os (for screen clearing)
+# - sys (implicit through Python runtime)
+
+# To run the game, simply have Python 3.6 or higher installed.
